@@ -6,5 +6,5 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://EldarkoW.github.io',
-  base: '/para-mi-Shuyana-hermosa-preciosa'
+  base: '/para-mi-Shuyana-hermosa-preciosa/'
 });
